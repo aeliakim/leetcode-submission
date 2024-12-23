@@ -1,6 +1,10 @@
 # Difficulty List
 
 ## Easy
+
+1. [Two-Sum](https://github.com/aeliakim/leetcode-submission/tree/main/1.Two-Sum)
+
+ Problem: https://leetcode.com/problems/two-sum/
   
  412. [Fizz-Buzz](https://github.com/aeliakim/leetcode-submission/tree/main/412.Fizz-Buzz)
  
